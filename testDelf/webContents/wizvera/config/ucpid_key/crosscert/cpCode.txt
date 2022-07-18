@@ -1,0 +1,4 @@
+ucpid.isp.cp.code=E001C863083O
+ucpid.isp.sign.privatekey.password=egV3qYHEazJ6EHWWNIQTmA==
+ucpid.isp.km.privatekey.password=egV3qYHEazJ6EHWWNIQTmA==
+개인키비밀번호: crosscert12!@

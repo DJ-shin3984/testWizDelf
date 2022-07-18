@@ -1,0 +1,4 @@
+ucpid.isp.cp.code=Aa037fMuE8TE
+ucpid.isp.sign.privatekey.password=P09h7p3w0KAgDv13vVpwkw==
+ucpid.isp.km.privatekey.password=P09h7p3w0KAgDv13vVpwkw==
+개인키비밀번호: qwer1234
